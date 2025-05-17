@@ -2,12 +2,12 @@
 
 A shell built in Rust. The idea for the project comes from [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-shell).
 
-## Running the program
+## Running and using the shell
 
 1. Clone the repository.
 
     ```shell
-    git clone <https://github.com/Kosciarz/rshell.git>
+    git clone https://github.com/Kosciarz/rshell.git
     ```
 
 2. Run the program with Cargo.
@@ -16,15 +16,13 @@ A shell built in Rust. The idea for the project comes from [Coding Challenges](h
     cargo run
     ```
 
-## Usage
+3. Pass in whichever commands you like
 
-After running the program, you can enter commands just like in a typical shell. For example:
-
-```shell
-ls
-pwd
-echo "Hello, rshell!"
-```
+    ```shell
+    ls
+    pwd
+    echo "Hello, rshell!"
+    ```
 
 ## What I learned
 
