@@ -2,11 +2,11 @@
 
 A shell built in Rust. The idea for the project comes from [Coding Challenges](https://codingchallenges.fyi/challenges/challenge-shell).
 
-## Prerequisites 
+## Prerequisites
 
-This project is built in (Rust)[] and you need to have it installed to run the program.
+This project is built in [Rust](https://github.com/Kosciarz/rshell.git) and you need to have it installed to run the program.
 
-## Building
+## Building and running
 
 1. Clone the repository.
 
@@ -14,18 +14,18 @@ This project is built in (Rust)[] and you need to have it installed to run the p
     git clone https://github.com/Kosciarz/rshell.git
     ```
 
-## Usage
-
-1. Run the program with Cargo.
+2. Build and run the program.
 
     ```shell
     cargo run
     ```
-2. Pass in whichever commands you like.
 
-    ```shell
-    ls
-    pwd
-    echo "Hello, rshell!"
-    ```
+## Usage
 
+After running the program pass in whichever commands you like. For example:
+
+```shell
+ls
+pwd
+echo "Hello, rshell!"
+```
