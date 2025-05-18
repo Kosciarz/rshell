@@ -4,7 +4,7 @@ A shell built in Rust. The idea for the project comes from [Coding Challenges](h
 
 ## Prerequisites
 
-This project is built in [Rust](https://github.com/Kosciarz/rshell.git) and you need to have it installed to run the program.
+This project is built in [Rust](https://www.rust-lang.org/) and you need to have it installed to run the application.
 
 ## Building and running
 
